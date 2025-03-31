@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobinsAviary
+- 👋 Hi, I’m Robin!
 - 👀 I’m interested in game/engine development and C++. I also occasionally mess with the TF2 SDK.
 - 🌱 I’m currently learning game engine development and C++
 - 📫 Find my email on https://robinsaviary.com/about
