@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robin!
 - 👀 I’m interested in game/engine development and C++. I also occasionally mess with the [TF2 SDK](https://github.com/ValveSoftware/source-sdk-2013).
 - 🌱 I’m currently working on [Estroengine](https://github.com/RobinsAviary/Estroengine).
-- 📫 [Find my email here](https://robinsaviary.com/about)!
+- 📫 Find my email [here](https://robinsaviary.com/about)!
 - 🏳️‍⚧️ Pronouns: she/fae/it
