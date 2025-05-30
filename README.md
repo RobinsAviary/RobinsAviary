@@ -3,3 +3,5 @@
 - 🔨 I’m currently working on [Estroengine](https://github.com/RobinsAviary/Estroengine).
 - 📫 Find my email [here](https://robinsaviary.com/about)! Also [Bluesky](https://bsky.app/profile/robinsaviary.com)!
 - 🏳️‍⚧️ Pronouns: she/fae/it
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsaviary&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
