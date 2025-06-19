@@ -5,3 +5,5 @@
 - 🏳️‍⚧️ Pronouns: she/fae/it
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsaviary&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
