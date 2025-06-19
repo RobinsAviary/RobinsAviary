@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robin!
-- 👀 I’m interested in game/engine development in C++. I also occasionally mess with the [Team Fortress 2 SDK](https://github.com/ValveSoftware/source-sdk-2013).
+- 👀 I’m interested in game/engine development in C++/C#. I also occasionally mess with the [Team Fortress 2 SDK](https://github.com/ValveSoftware/source-sdk-2013).
 - 🔨 I’m currently working on [Estroengine](https://github.com/RobinsAviary/Estroengine) and [RC-10](https://github.com/RobinsAviary/RC-10). Some of my hobbies are fantasy consoles and esolangs.
 - 📫 Find my email [here](https://robinsaviary.com/about)! Also [Bluesky](https://bsky.app/profile/robinsaviary.com)!
 - 🏳️‍⚧️ Pronouns: she/fae/it
