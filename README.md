@@ -4,6 +4,6 @@
 - 📫 Find my email [here](https://robinsaviary.com/about)! Also [Bluesky](https://bsky.app/profile/robinsaviary.com)!
 - 🏳️‍⚧️ Pronouns: she/fae/it
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsaviary&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![robinsaviary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsaviary&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
