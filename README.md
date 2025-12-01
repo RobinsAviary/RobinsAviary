@@ -4,8 +4,6 @@
 - 📫 Find my email [here](https://robinsaviary.com/about)! Also [Bluesky](https://bsky.app/profile/robinsaviary.com)!
 - 🏳️‍⚧️ Pronouns: she/fae/it
 
-All code on my repos is 100% human-written (or at least generated as bindings), bugs and all.
-
 [Find my other repos on git.gay!](https://git.gay/RobinsAviary?tab=repositories)
 
 ![robinsaviary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsaviary&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
