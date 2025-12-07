@@ -8,4 +8,4 @@
 
 ![robinsaviary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsaviary&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+![Jokes Card](https://readme-jokes.vercel.app/api)
