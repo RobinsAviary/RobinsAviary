@@ -4,7 +4,7 @@
 - 📫 Find my email [here](https://robinsaviary.com/about)! Also [Bluesky](https://bsky.app/profile/robinsaviary.com)!
 - 🏳️‍⚧️ Pronouns: she/fae/it
 
-[Find my other repos on git.gay!](https://git.gay/RobinsAviary?tab=repositories)
+[Find my other/newer repos on codeberg!](https://codeberg.org/RobinsAviary)
 
 ![robinsaviary's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinsaviary&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
